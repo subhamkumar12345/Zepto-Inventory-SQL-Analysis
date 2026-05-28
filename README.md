@@ -1,7 +1,7 @@
 # 🛒 Zepto Inventory SQL Analysis
 
-## 👤 Role: Data Analyst  
-As a data analyst, I led the end-to-end process of exploring and cleaning raw e-commerce inventory data, designing the database schema, and writing SQL-based queries to drive actionable business insights.
+## 👤 Role: Business Analyst  
+As a business analyst, I led the end-to-end process of exploring and cleaning raw e-commerce inventory data, designing the database schema, and writing SQL-based queries to drive actionable business insights.
 
 ---
 
